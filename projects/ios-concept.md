@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
-title: Audit
+thumbnail: "/uploads/download-11.jpg"
+title: Inheritance
 date: 2019-01-03
 categories:
 - photography
