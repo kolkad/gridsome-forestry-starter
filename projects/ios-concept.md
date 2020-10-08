@@ -1,12 +1,12 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
-title: Porta400
+thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
+title: Audit
 date: 2019-01-03
 categories:
 - photography
 - yellow
-project_bg_color: ''
-project_fg_color: ''
+project_bg_color: "#B88A8A"
+project_fg_color: "#EF1313"
 
 ---
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+![for all](/uploads/markus-spiske-516263-unsplash.jpg "Management")
