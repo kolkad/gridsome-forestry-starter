@@ -1,9 +1,8 @@
 ---
 date: 2020-10-09
-title: VueJS for your next project
+title: Creating documents for Naija
 author: Nichlas W. Andersen
-excerpt: Vue (pronounced /vjuː/, like view) is a progressive framework for building
-  user interfaces.
+excerpt: Documents made available are very important.
 
 ---
 Creating a new site on Netlify is simple. Once you’ve logged in, you’ll be taken to [https://app.netlify.com](https://app.netlify.com "Coming up with something"). If you’re just starting out, there’s only one option, Click the **Add A New Project** button shown above.
