@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+thumbnail: "/uploads/picture1.jpg"
+title: Equipment
 date: 2019-02-06
 categories:
 - photography
@@ -9,4 +9,4 @@ project_bg_color: "#EDEDED"
 project_fg_color: "#36B5EF"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
+![Machine](/uploads/cody-davis-253925-unsplash.jpg "Cleaning")
