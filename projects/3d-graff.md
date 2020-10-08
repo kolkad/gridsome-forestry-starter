@@ -1,6 +1,6 @@
 ---
-thumbnail: "/uploads/ian-dooley-281897-unsplash.jpg"
-title: Ice Cream
+thumbnail: "/uploads/images-5.jpg"
+title: Property
 date: 2019-01-04
 categories:
 - photography
